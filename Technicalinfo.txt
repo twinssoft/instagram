@@ -1,0 +1,5 @@
+Technical info
+API key
+d624d3746e844f208bb96a94d2c4ec23
+Client secret
+78666cb0-8596-4998-959c-62c2ad1cdd59
